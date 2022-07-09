@@ -1,0 +1,2 @@
+this is sample3 file for git testing
+
